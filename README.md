@@ -1,1 +1,2 @@
-# E-commerce website implemented with HTML, CSS, JavaScript, PHP, MySQL
+# E-commerce
+Developed an e-commerce application in a group of people which consisted of 3 people for our final project.
